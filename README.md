@@ -8,13 +8,13 @@
 
 - Null values were assessed using isnull().sum(), and decisions were made regarding dropping rows or imputing missing data (mean, median, mode).
 
-![Screenshot 2024-08-01 034027.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5c1ef36-0975-46c1-ad51-974843803b44/f1552898-28f5-475c-a76d-4e9e4ef20631/Screenshot_2024-08-01_034027.png)
+![](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Classification%20Project%20Image/Screenshot%202024-08-01%20034027.png)
 
-![Screenshot 2024-08-01 034050.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5c1ef36-0975-46c1-ad51-974843803b44/a00d7444-a2af-4eac-afac-ffb0e3fca7bf/Screenshot_2024-08-01_034050.png)
+![](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Classification%20Project%20Image/Screenshot%202024-08-01%20034050.png)
 
 - Descriptive statistics (e.g., mean, median, standard deviation) from describe() provided insights into data distribution.
 
-![Screenshot 2024-08-02 143005.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5c1ef36-0975-46c1-ad51-974843803b44/2f74feb7-2a64-4ea5-85ea-0f6ab9c61c0f/Screenshot_2024-08-02_143005.png)
+![](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/Excel%20Project%20Image/Screenshot%202024-04-09%20015411.jpg)
 
 # **2. Visualization and Analysis**:
 
