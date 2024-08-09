@@ -4,7 +4,7 @@
 
 - Imported common libraries like numpy, pandas, matplotlib, and seaborn for performing data analysis and visualization.
 
-![](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Classification%20Project%20Image/Screenshot%202024-08-01%20034015.png))
+![](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Classification%20Project%20Image/Screenshot%202024-08-01%20034015.png)
 
 - Null values were assessed using isnull().sum(), and decisions were made regarding dropping rows or imputing missing data (mean, median, mode).
 
