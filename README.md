@@ -59,3 +59,7 @@
 ![Screenshot 2024-08-01 034414.png](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Classification%20Project%20Image/Screenshot%202024-08-01%20034414.png)
 
 - A model was built and evaluated using classification metrics.
+
+![Screenshot 2024-08-01 034440.png](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/ML%20Classification%20Project%20Image/Screenshot%202024-08-01%20034440.png)
+
+“ This project illuminated data cleaning, visualization, feature engineering, and machine learning modeling for predicting customer satisfaction. “
