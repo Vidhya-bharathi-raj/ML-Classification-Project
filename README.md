@@ -4,7 +4,7 @@
 
 - Imported common libraries like numpy, pandas, matplotlib, and seaborn for performing data analysis and visualization.
 
-![Screenshot 2024-08-01 034015.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d5c1ef36-0975-46c1-ad51-974843803b44/1d761e34-1f60-4051-9df6-a151ca16babf/Screenshot_2024-08-01_034015.png)
+![](https://github.com/Vidhya-bharathi-raj/Project-Images/blob/main/Excel%20Project%20Image/Screenshot%202024-04-09%20015411.jpg))
 
 - Null values were assessed using isnull().sum(), and decisions were made regarding dropping rows or imputing missing data (mean, median, mode).
 
